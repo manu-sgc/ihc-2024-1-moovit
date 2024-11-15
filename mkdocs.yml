@@ -1,3 +1,4 @@
 site_name: "IHC - Moovit"
+site_url: https://github.com/manu-sgc/ihc-2024-1-moovit.git
 theme:
   name: "material"
